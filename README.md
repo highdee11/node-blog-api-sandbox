@@ -1,8 +1,4 @@
-Here's the revised README template without specific API URLs:
-
----
-
-# My Node.js Express API with Sequelize and MySQL
+# Node.js Express API with Sequelize and MySQL
 
 ## Overview
 
