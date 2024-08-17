@@ -1,0 +1,1 @@
+node ./core/config/db/db_migration.js

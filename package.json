@@ -1,0 +1,26 @@
+{
+  "name": "super_assessment_practice",
+  "version": "1.0.0",
+  "description": "A practice project for super.com interview",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "highdee",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.10.3",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
